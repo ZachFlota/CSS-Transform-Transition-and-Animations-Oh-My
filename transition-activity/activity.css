@@ -1,1 +1,6 @@
+button {
+    transition-duration: 2s;
+    transition-property: background-color color;
+    
 
+}
